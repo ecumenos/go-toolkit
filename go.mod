@@ -9,4 +9,7 @@ require (
 	gonum.org/v1/gonum v0.14.0
 )
 
-require github.com/bwmarrin/snowflake v0.3.0
+require (
+	github.com/bwmarrin/snowflake v0.3.0
+	github.com/carlmjohnson/versioninfo v0.22.5
+)
